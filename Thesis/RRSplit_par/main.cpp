@@ -1,4 +1,3 @@
-%%writefile main.cpp
 #include "graph.c"
 #include <algorithm>
 #include <fstream>
